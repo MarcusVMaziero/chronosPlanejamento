@@ -1,0 +1,30 @@
+[06-Nov-2018 16:08:48 America/Sao_Paulo] PHP Warning:  include(menu) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/msvco758/public_html/chronos/system/index.php on line 50
+[06-Nov-2018 16:08:48 America/Sao_Paulo] PHP Warning:  include(menu) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/msvco758/public_html/chronos/system/index.php on line 50
+[06-Nov-2018 16:08:48 America/Sao_Paulo] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'menu' for inclusion (include_path='.:/opt/php53/lib/php') in /home/msvco758/public_html/chronos/system/index.php on line 50
+[06-Nov-2018 16:10:16 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected T_CLASS in /home/msvco758/public_html/chronos/system/index.php on line 35
+[07-Nov-2018 12:26:51 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected $end in /home/msvco758/public_html/chronos/system/menu.php on line 44
+[07-Nov-2018 13:57:38 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ';' in /home/msvco758/public_html/chronos/controller.php on line 38
+[13-Nov-2018 00:00:15 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected $end in /home/msvco758/public_html/chronos/system/tarefas.php on line 119
+[13-Nov-2018 00:00:37 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected $end in /home/msvco758/public_html/chronos/system/tarefas.php on line 119
+[13-Nov-2018 00:00:38 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected $end in /home/msvco758/public_html/chronos/system/tarefas.php on line 119
+[13-Nov-2018 00:00:39 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected $end in /home/msvco758/public_html/chronos/system/tarefas.php on line 119
+[13-Nov-2018 00:01:09 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected $end in /home/msvco758/public_html/chronos/system/tarefas.php on line 119
+[13-Nov-2018 00:01:10 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected $end in /home/msvco758/public_html/chronos/system/tarefas.php on line 119
+[13-Nov-2018 00:06:44 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected $end in /home/msvco758/public_html/chronos/system/tarefas.php on line 119
+[13-Nov-2018 00:08:08 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected $end in /home/msvco758/public_html/chronos/system/tarefas.php on line 119
+[13-Nov-2018 00:08:09 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected $end in /home/msvco758/public_html/chronos/system/tarefas.php on line 119
+[13-Nov-2018 00:08:10 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected $end in /home/msvco758/public_html/chronos/system/tarefas.php on line 119
+[13-Nov-2018 00:08:57 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected $end in /home/msvco758/public_html/chronos/system/tarefas.php on line 119
+[13-Nov-2018 00:08:58 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected $end in /home/msvco758/public_html/chronos/system/tarefas.php on line 119
+[13-Nov-2018 00:08:58 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected $end in /home/msvco758/public_html/chronos/system/tarefas.php on line 119
+[13-Nov-2018 00:08:59 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected $end in /home/msvco758/public_html/chronos/system/tarefas.php on line 119
+[13-Nov-2018 00:09:00 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected $end in /home/msvco758/public_html/chronos/system/tarefas.php on line 119
+[13-Nov-2018 00:09:06 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected $end in /home/msvco758/public_html/chronos/system/tarefas.php on line 119
+[13-Nov-2018 00:10:26 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected $end in /home/msvco758/public_html/chronos/system/tarefas.php on line 119
+[26-Nov-2018 20:12:02 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/msvco758/public_html/chronos/conexao.php on line 2
+[27-Nov-2018 00:15:07] PHP Parse error:  syntax error, unexpected $end in /home/msvco758/public_html/chronos/system/tarefas.php on line 119
+[01-Dec-2018 11:29:46] PHP Parse error:  syntax error, unexpected $end in /home/msvco758/public_html/chronos/system/tarefas.php on line 119
+[08-Dec-2018 10:08:10] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/msvco758/public_html/chronos/system/tarefas.php on line 80
+[08-Dec-2018 11:14:02] PHP Parse error:  syntax error, unexpected $end in /home/msvco758/public_html/chronos/system/tarefas.php on line 124
+[08-Dec-2018 11:38:45] PHP Parse error:  syntax error, unexpected '}' in /home/msvco758/public_html/chronos/system/edit_colaboradores.php on line 67
+[08-Dec-2018 12:35:00] PHP Parse error:  syntax error, unexpected $end in /home/msvco758/public_html/chronos/controller.php on line 149
